@@ -1,0 +1,37 @@
+Preorder Traversal: 
+
+Start
+Main
+tk_main
+Many_statements
+tk_if
+tk_gr
+tk_id
+tk_intlit
+tk_int
+tk_id
+tk_assign
+tk_id
+tk_intlit
+tk_assign
+tk_id
+tk_intlit
+
+Postorder Traversal: 
+
+tk_main
+tk_id
+tk_intlit
+tk_gr
+tk_id
+tk_int
+tk_id
+tk_intlit
+tk_assign
+tk_if
+tk_id
+tk_intlit
+tk_assign
+Many_statements
+Main
+Start

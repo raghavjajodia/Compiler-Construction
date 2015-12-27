@@ -1,0 +1,18 @@
+main()
+{
+
+int a,b;
+complex ex;
+bool ra;
+char saurabh;
+satnalika=saurabh;
+
+if(a>b)
+{
+a=2;
+while(a>b){
+b = 3;}
+}
+else{
+a=3;}
+}

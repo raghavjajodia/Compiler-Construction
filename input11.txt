@@ -1,0 +1,12 @@
+main(){
+bool a,b;
+char saurabh;
+complex new;
+int s;
+a,b=true,false;
+a,b=2,false;
+saurabh=2+3;
+new.first=s;
+
+
+}

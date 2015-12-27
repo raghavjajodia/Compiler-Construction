@@ -1,0 +1,10 @@
+main(){
+int saurabh;
+if(saurabh>2){
+int a;
+}
+else{
+a=3;
+}
+a=3;
+}

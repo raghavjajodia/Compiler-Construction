@@ -1,0 +1,14 @@
+main(){
+int n; n=10;
+if(n>7){
+function write(1);
+}
+else{
+if(n<2){
+function write(2);
+}
+else{
+ function write(3);
+}
+}
+}

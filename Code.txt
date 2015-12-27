@@ -1,0 +1,9 @@
+MOV R1, a
+MOV R2, 2
+COMP R1 R2
+SETG R1
+MOV R1, a
+MOV R1, b
+MOV R1, 3
+MOV R1, a
+MOV R1, 3

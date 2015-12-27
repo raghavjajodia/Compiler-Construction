@@ -1,0 +1,8 @@
+main(){
+int sat,sau;
+bool a;
+sat=2+3;
+if(sat>a){
+sat= sat+2;
+}
+}

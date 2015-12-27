@@ -1,0 +1,10 @@
+LINE NO. 1     tk_main  tk_leftpa  tk_rightpa  tk_leftbr 
+LINE NO. 2     tk_if  tk_id  tk_gr  tk_intlit  tk_rightpa  tk_leftbr 
+LINE NO. 3     tk_int  tk_id  tk_colon 
+LINE NO. 4     tk_rightbr 
+LINE NO. 5     tk_else  tk_leftbr 
+LINE NO. 6     tk_id  tk_assign  tk_intlit  tk_colon 
+LINE NO. 7     tk_rightbr 
+LINE NO. 8     tk_id  tk_assign  tk_intlit  tk_colon 
+LINE NO. 9    
+LINE NO. 10     tk_rightbr 

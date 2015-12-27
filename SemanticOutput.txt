@@ -1,0 +1,4 @@
+ERROR : a declared later but referenced here , Line No: 2
+ERROR : b not declared, Line No: 6
+ERROR : a out of scope , Line No: 8
+Error in line: 6, Types do not match on both sides
